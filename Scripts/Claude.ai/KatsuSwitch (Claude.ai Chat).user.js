@@ -2,11 +2,11 @@
 // @name         Claude.ai Chat - Dark Mode Toggle
 // @namespace    KatsuSwitch
 // @version      1.0.2
-// @description  Light/Dark Mode Toggle
+// @description  Light / Dark Mode Toggle
 // @author       Sato
 // @license      MIT
 // @match        https://claude.ai/*
-// @icon         https://i.imgur.com/yEZoS2c.png
+// @icon         https://raw.githubusercontent.com/satoru8/UserScripts-Styles/main/Logo.png
 // @downloadURL  https://openuserjs.org/install/sato/KatsuSwitch_(Claude.ai_Chat).user.js
 // @grant        GM_registerMenuCommand
 // @grant        GM_setValue
