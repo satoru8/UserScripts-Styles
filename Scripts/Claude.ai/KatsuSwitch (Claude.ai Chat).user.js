@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         KatsuSwitch (Claude.ai Chat)
+// @name         Claude.ai Chat - Dark Mode Toggle
 // @namespace    KatsuSwitch
 // @version      1.0.2
 // @description  Light/Dark Mode Toggle
